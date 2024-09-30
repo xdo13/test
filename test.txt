@@ -1,0 +1,51 @@
+a파일생성
+연습용
+
+function a (  ){
+
+
+
+}
+
+function b  (  ){
+
+
+
+}
+
+function c (  ){
+
+
+
+
+
+
+}
+
+
+
+
+function d (  ){
+
+
+
+
+
+}
+
+function e (  ){
+
+
+
+
+
+
+}
+
+
+
+function f(  ){
+
+
+
+}
